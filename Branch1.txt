@@ -1,0 +1,3 @@
+[PunRPC]
+GetAxis
+int float
